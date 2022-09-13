@@ -1,6 +1,6 @@
 # SilentAssassin
 
-# Silent Assassin is a location based cat and mouse game. Players are given a choice of being an assassin or an explorer. 
+Silent Assassin is a location based cat and mouse game. Players are given a choice of being an assassin or an explorer. 
 
 ## Explorers
 The explorer's job is to start quests and collect artifacts to earn points, while avoiding being in the same place as an assassin.

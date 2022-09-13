@@ -8,7 +8,7 @@ The explorer's job is to start quests and collect artifacts to earn points, whil
 ## Assassins
 The assassin's job is to predict and locate where explorers may be. If they are in the same place as an explorer, the assassins can try and kill anyone that is in the area. If there is an explorer present, they are killed and their score resets to 0.
 
-This is a CS 440 Software Engineering Project. Fall 2021
+This is a CS 440 Software Engineering Project, developed using agile methodologies over a 3 month period. Fall 2021
 
 ## Techonology used
 
